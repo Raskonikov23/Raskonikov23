@@ -1,22 +1,26 @@
-## Olá! Seja bem-vindo ao meu GitHub.
+Hello! Welcome to my GitHub.
 
-Sou graduado em **Física** e tecnólogo em **Análise e Desenvolvimento de Sistemas (ADS)**, com experiência profissional em análise de dados e desenvolvimento de soluções computacionais.
+I have a degree in **Physics** and a technologist degree in **Systems Analysis and Development (ADS)**, with professional experience in data analysis and the development of computational solutions.
 
-Atuei na área de educação pública, trabalhando com organização, tratamento e análise de dados relacionados à frequência de servidores, faltas e afastamentos médicos, contribuindo para a geração de informações e indicadores de gestão.
+I worked in the public education sector, organizing, processing, and analyzing data related to employee attendance, absences, and medical leaves, contributing to the generation of information and management indicators.
 
-### Competências técnicas
+Technical Skills
 
-- **Linguagens:** Python e SQL.
-- **Análise de dados:** Pandas, NumPy e análise estatística.
-- **Visualização:** Power BI e Matplotlib.
-- **Desenvolvimento:** APIs, HTML, CSS e Git/GitHub.
-- **Métodos quantitativos:** Estatística, modelagem matemática e simulação computacional.
+- **Languages:** Python and SQL.
 
-### Interesses e projetos
+- **Data Analysis:** Pandas, NumPy, and statistical analysis.
 
-Tenho interesse na aplicação de métodos matemáticos, estatísticos e computacionais em problemas reais, especialmente nas áreas de Ciência de Dados, Física Estatística, mercados financeiros e automação.
+- **Visualization:** Power BI and Matplotlib.
 
-Atualmente, desenvolvo projetos que integram **Física Estatística, Ciência de Dados e Python**, buscando aprofundar meus conhecimentos em modelagem, simulação e análise de sistemas complexos.
+- **Development:** APIs, HTML, CSS, and Git/GitHub.
+
+- **Quantitative Methods:** Statistics, mathematical modeling, and computational simulation.
+
+Interests and Projects
+
+I am interested in applying mathematical, statistical, and computational methods to real-world problems, especially in the areas of Data Science, Statistical Physics, financial markets, and automation.
+
+Currently, I am developing projects that integrate **Statistical Physics, Data Science, and Python**, seeking to deepen my knowledge in modeling, simulation, and analysis of complex systems.
 <!--
 **Raskonikov23/Raskonikov23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
